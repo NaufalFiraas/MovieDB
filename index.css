@@ -79,7 +79,7 @@ h1#welcome {
     align-items: flex-start;
     justify-content: space-between;
     border-radius: 20px;
-    box-shadow: 4px 3px 10px #eaeaea;
+    box-shadow: 0px 0px 12px #eaeaea;
 }
 
 .movies-container .movie-card img {
